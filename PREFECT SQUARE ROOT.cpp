@@ -18,7 +18,7 @@ int main() {
 void PF(double x)
 	{
 	int i=0,t=0;
-	 if(x>0&&x<100000){
+	 if(x>0&&x<10000){
 		 i=sqrt(x);
 		 t = i * i;
 	 if(x== t){
